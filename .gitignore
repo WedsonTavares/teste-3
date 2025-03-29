@@ -1,0 +1,5 @@
+# Ignorar arquivos de configuração sensíveis
+.env
+
+# Ignorar a pasta de arquivos tratados
+arquivos_tratados/
